@@ -7,3 +7,5 @@ venv/
 *.png
 .DS_Store
 tmp/
+!assets/
+!assets/*
