@@ -37,7 +37,7 @@ Paste a TikTok or Instagram link (or upload a screenshot / paste text) → get a
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/cook-not-watch.git
+git clone https://github.com/svetlandia-ai/cook-not-watch.git
 cd cook-not-watch
 
 # 2. Create virtual environment
@@ -101,6 +101,6 @@ The app falls back to system fonts automatically if these are not present.
 
 ## About
 
-Built by **[YOUR NAME]** · [your-portfolio.com](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/yourprofile)
+Built by **[Svetlana Ivanova]** · [www.linkedin.com/in/svetlanai](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/yourprofile)
 
 This project was built as part of my portfolio to demonstrate full-stack AI application development with Python and OpenAI APIs.
