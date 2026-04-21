@@ -549,8 +549,9 @@ class PDFRequest(BaseModel):
 # ─────────────────────────────────────────────────────────────────────────────
 
 @app.get("/")
-def health():
-    return {"status": "ok", "app": "Cook not watch"}
+def root():
+    from fastapi.responses import RedirectResponse
+    return RedirectResponse(url="/app")
 
 
 @app.post("/extract-from-video")
